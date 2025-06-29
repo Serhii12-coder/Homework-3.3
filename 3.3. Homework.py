@@ -10,4 +10,4 @@ list1 = my_list[:a2]
 list2 = my_list[a2:length]
 print(list1)
 print(list2)
-#1
+#11
